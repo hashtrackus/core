@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:hashtrackus/frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:hashtrackus/backend.git
+[submodule "monitor"]
+	path = monitor
+	url = git@github.com:hashtrackus/monitor.git
