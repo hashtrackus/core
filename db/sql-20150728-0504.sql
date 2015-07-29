@@ -1,0 +1,1 @@
+﻿alter table users add column current_access_token text;
